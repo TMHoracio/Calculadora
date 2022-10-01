@@ -1,0 +1,235 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+body {
+  background-color: transparent;
+  transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  transform-style: preserve-3d;
+  left: 0%;
+  top: 0%;
+}
+.gwd-input-1gm4 {
+    position: absolute;
+    font-size: 30px;
+    padding: 0px;
+    height: 20%;
+    width: 80%;
+    top: 0%;
+    left: 10%;
+}
+.gwd-button-15hu {
+  position: absolute;
+  height: 20%;
+  width: 25%;
+  left: 0%;
+  top: 20.97%;
+}
+.gwd-button-1kdm {
+  left: -0.25%;
+  top: 40.4%;
+}
+.gwd-button-mjde {
+  left: -0.25%;
+  top: 60.04%;
+}
+.gwd-button-13fn {
+  left: -0.25%;
+  top: 80.13%;
+}
+.gwd-button-jqpa {
+  top: 20%;
+}
+.gwd-button-12jl {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 24.81%;
+  top: 20.53%;
+}
+.gwd-button-jg0t {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 24.81%;
+  top: 59.6%;
+}
+.gwd-button-1vup {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 24.81%;
+  top: 40.18%;
+}
+.gwd-button-1fwk {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 50.49%;
+  top: 20%;
+}
+.gwd-button-hyqx {
+  left: 50.49%;
+  top: 79.69%;
+}
+.gwd-button-1gp7 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 50.37%;
+  top: 59.96%;
+}
+.gwd-button-1eym {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 50.37%;
+  top: 40.31%;
+}
+.gwd-button-1tzo {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  top: 20.53%;
+}
+.gwd-button-19t4 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  top: 59.38%;
+  left: 0%;
+}
+.gwd-button-1ud3 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 0%;
+  top: 40.18%;
+}
+.gwd-button-1lob {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: -webkit-radial-gradient(center center, circle cover, rgb(58, 58, 67) 0%, rgb(0, 0, 0) 100%);
+  left: 24.81%;
+  top: 79.47%;
+}
+.gwd-button-aobj {
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: none;
+  background-color: rgb(255, 214, 0);
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-weight: bold;
+  left: 0%;
+  top: 77.04%;
+}
+.gwd-button-hzk8 {
+  border-image-source: none;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-color: transparent;
+  background-image: none;
+  left: 50.49%;
+  background-color: rgb(102, 223, 35);
+}
+.gwd-button-vw1b {
+  background-image: none;
+  background-color: rgb(25, 89, 181);
+  left: 74.69%;
+  top: 20.53%;
+}
+.gwd-button-qsho {
+  background-image: none;
+  background-color: rgb(25, 89, 181);
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  left: 74.69%;
+  top: 79.47%;
+}
+.gwd-button-16hx {
+  background-image: none;
+  background-color: rgb(25, 89, 181);
+  top: 59.6%;
+  left: 74.69%;
+}
+.gwd-button-wviw {
+  background-image: none;
+  background-color: rgb(25, 89, 181);
+  top: 40.18%;
+  left: 74.69%;
+}
+.gwd-button-1asr {
+  font-size: 30px;
+  color: rgb(250, 247, 247);
+  font-weight: bold;
+  left: 49.75%;
+  top: 79.69%;
+}
+.gwd-button-1pd2 {
+  left: 49.75%;
+  top: 20.53%;
+}
+.gwd-button-sgt6 {
+  left: 49.75%;
+  top: 40.18%;
+}
+.gwd-button-1dwp {
+  top: 59.82%;
+  left: 49.75%;
+}
